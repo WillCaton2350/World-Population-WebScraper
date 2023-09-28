@@ -1,0 +1,20 @@
+[
+{
+    "url": "https://www.worldometers.info/world-population/population-by-country/", 
+    "id": null, 
+    "title": ["Population by Country (2023) - Worldometer"], 
+    "sub_title": ["Countries in the world by population (2023)"], 
+    "sub_description": ["List of countries and dependencies in the world ranked by population, from the most populated. Growth rate, median age, fertility rate, area, density, population density, urbanization, urban population, share of world population."], 
+    "country_name": [], 
+    "population": [], 
+    "yearly_change": [], 
+    "net_change": [], 
+    "density": [], 
+    "land_area": [], 
+    "migrants": [], 
+    "fertility_rate": [], 
+    "med_rate": [],
+     "minority_population": [], 
+    "world_share": []
+}
+]
